@@ -3,7 +3,7 @@
 Exploring and visualizing the contributions to
 [MaLAPA 2026 Japan](https://indico.rcnp.osaka-u.ac.jp/event/2676/).
 
-TL;DR: ([Jump to visualizations!](https://github.com/tiamiceli/summary-malapa-2026/blob/main/step_2_output/README.md))
+# 🐇 TL;DR: ([Jump to visualizations!](https://github.com/tiamiceli/summary-malapa-2026/blob/main/step_2_output/README.md))
 
 <p align="center">
   <img src="source_data/group_photo.jpeg" alt="MaLAPA 2026 group photo" width="480">
