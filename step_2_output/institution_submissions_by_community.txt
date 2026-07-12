@@ -1,0 +1,62 @@
+=== Institutions by Community (with Submission Numbers) ===
+
+Community 0:
+  DESY: 17 contributions (submissions: 0, 1, 4, 10, 31, 33, 34, 53, 54, 55, 56, 64, 67, 70)
+  SLAC: 13 contributions (submissions: 3, 12, 51, 57, 58, 61, 93)
+  LBNL: 9 contributions (submissions: 8, 9, 24, 41, 44, 50, 60)
+  ISIS: 5 contributions (submissions: 66, 69, 75, 76, 81)
+  ANL: 4 contributions (submissions: 29, 59)
+  TUHH: 4 contributions (submissions: 82)
+  ASTeC: 2 contributions (submissions: 49)
+  LU: 2 contributions (submissions: 26)
+  KIT: 1 contributions (submissions: )
+  UChicago: 1 contributions (submissions: )
+  UoL: 1 contributions (submissions: )
+  HZB: 1 contributions (submissions: )
+  UniSarajevo: 1 contributions (submissions: )
+
+Community 1:
+  BNL: 11 contributions (submissions: 2, 11, 25, 30, 36, 40, 43, 72, 73)
+  JLab: 10 contributions (submissions: 27, 32, 35)
+  FNAL: 9 contributions (submissions: 47, 48, 79, 80, 85, 89, 91)
+  Cornell: 6 contributions (submissions: 7)
+  ORNL: 3 contributions (submissions: 28)
+  PNNL: 2 contributions (submissions: 90)
+  RPI: 1 contributions (submissions: )
+  UH: 1 contributions (submissions: )
+
+Community 2:
+  CERN: 14 contributions (submissions: 13, 14, 16, 17, 18, 20, 21, 37, 38, 39, 42, 46, 88)
+  EFEI: 1 contributions (submissions: )
+  Mines Paris: 1 contributions (submissions: )
+  UW-Madison: 1 contributions (submissions: )
+  TU Wien: 1 contributions (submissions: 19)
+  UniVienna: 1 contributions (submissions: )
+  UniNa: 1 contributions (submissions: )
+
+Community 3:
+  KEK: 2 contributions (submissions: )
+  UTokyo: 2 contributions (submissions: )
+  Kyutech: 1 contributions (submissions: )
+  OMU: 1 contributions (submissions: 77)
+  UOsaka: 1 contributions (submissions: )
+
+Community 4:
+  RIKEN: 3 contributions (submissions: 45)
+  RNC: 2 contributions (submissions: 83)
+  TRIP: 2 contributions (submissions: 68)
+  Science Tokyo: 1 contributions (submissions: )
+  Tohoku: 1 contributions (submissions: )
+
+Community 5:
+  PAL: 4 contributions (submissions: 62, 63, 78, 86)
+  KBSI: 3 contributions (submissions: 74)
+  KAERI: 1 contributions (submissions: )
+
+Community 6:
+  HI Iberia: 1 contributions (submissions: 15)
+  IFMIF-DONES: 1 contributions (submissions: )
+
+Community 7:
+  IRFU: 1 contributions (submissions: )
+  Paris-Saclay: 1 contributions (submissions: 65)

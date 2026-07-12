@@ -1,0 +1,394 @@
+{
+  "ASTeC": {
+    "inst": "ASTeC",
+    "country": "United Kingdom"
+  },
+  "Accelerator Division, J-PARC center": {
+    "inst": "J-PARC",
+    "country": "Japan"
+  },
+  "Argonne National Laboratory": {
+    "inst": "ANL",
+    "country": "United States"
+  },
+  "Brookhaven National Lab.": {
+    "inst": "BNL",
+    "country": "United States"
+  },
+  "Brookhaven National Lab. & Stony Brook University": {
+    "inst": "BNL",
+    "country": "United States"
+  },
+  "Brookhaven National Laboratory": {
+    "inst": "BNL",
+    "country": "United States"
+  },
+  "CERN": {
+    "inst": "CERN",
+    "country": "Switzerland"
+  },
+  "CERN / University of Vienna": {
+    "inst": "CERN",
+    "country": "Switzerland"
+  },
+  "CNRS - GANIL": {
+    "inst": "GANIL",
+    "country": "France"
+  },
+  "CNS, UTokyo": {
+    "inst": "UTokyo",
+    "country": "Japan"
+  },
+  "CentraleSupélec / LISN / CNRS, Paris-Saclay University, Gif-sur-Yvette, France": {
+    "inst": "Paris-Saclay",
+    "country": "France"
+  },
+  "Commissariat à l'énergie atomique - Institut de Recherche sur les lois Fondamentales de l'Univers (CEA/Irfu), Saclay, France": {
+    "inst": "IRFU",
+    "country": "France"
+  },
+  "Cornell": {
+    "inst": "Cornell",
+    "country": "United States"
+  },
+  "Cornell University": {
+    "inst": "Cornell",
+    "country": "United States"
+  },
+  "Cornell University &. Brookhaven National Lab.": {
+    "inst": "BNL",
+    "country": "United States"
+  },
+  "Cornell University and Brookhaven National Laboratory": {
+    "inst": "BNL",
+    "country": "United States"
+  },
+  "DELTA / TU Dortmund": {
+    "inst": "DELTA",
+    "country": "Germany"
+  },
+  "DESY": {
+    "inst": "DESY",
+    "country": "Germany"
+  },
+  "Department of Physics, Carnegie Mellon University, Pittsburgh, PA, USA , Stanford Institute for Materials and Energy Sciences, Stanford University, Menlo Park, CA, USA, SLAC National Accelerator Laboratory, Menlo Park, CA, U": {
+    "inst": "SLAC",
+    "country": "United States"
+  },
+  "Deutsches Elektronen Synchrotron Desy, Hamburg, Germany": {
+    "inst": "DESY",
+    "country": "Germany"
+  },
+  "Deutsches Elektronen-Synchrotron": {
+    "inst": "DESY",
+    "country": "Germany"
+  },
+  "Deutsches Elektronen-Synchrotron (DESY)": {
+    "inst": "DESY",
+    "country": "Germany"
+  },
+  "Deutsches Elektronen-Synchrotron DESY": {
+    "inst": "DESY",
+    "country": "Germany"
+  },
+  "Deutsches Elektronen-Synchrotron DESY, Hamburg, Germany": {
+    "inst": "DESY",
+    "country": "Germany"
+  },
+  "Ecole Française d'Electronique et d'Informatique": {
+    "inst": "EFEI",
+    "country": "France"
+  },
+  "European Spallation Source": {
+    "inst": "ESS",
+    "country": "Sweden"
+  },
+  "FNAL": {
+    "inst": "FNAL",
+    "country": "United States"
+  },
+  "Fermi National Accelerator Laboratory": {
+    "inst": "FNAL",
+    "country": "United States"
+  },
+  "Fermilab": {
+    "inst": "FNAL",
+    "country": "United States"
+  },
+  "HI Iberia": {
+    "inst": "HI Iberia",
+    "country": "Spain"
+  },
+  "HI Iberia, UC3M": {
+    "inst": "HI Iberia",
+    "country": "Spain"
+  },
+  "Hamburg University of Technology": {
+    "inst": "TUHH",
+    "country": "Germany"
+  },
+  "Hamburg University of Technology (TUHH)": {
+    "inst": "TUHH",
+    "country": "Germany"
+  },
+  "Helmholtz-Zentrum Berlin für Materialien und Energie GmbH, Albert-Einstein-Strasse 15, 12489 Berlin, Germany": {
+    "inst": "HZB",
+    "country": "Germany"
+  },
+  "IFMIF-DONES Spain": {
+    "inst": "IFMIF-DONES",
+    "country": "Spain"
+  },
+  "ISIS Pulsed Neutron and Muon Source, UKRI, STFC": {
+    "inst": "ISIS",
+    "country": "United Kingdom"
+  },
+  "Institute for Basic Science": {
+    "inst": "KBSI",
+    "country": "South Korea"
+  },
+  "J-PARC Center, Japan Atomic Energy Agency": {
+    "inst": "J-PARC",
+    "country": "Japan"
+  },
+  "JASRI/RIKEN SPring-8 Center": {
+    "inst": "RSC",
+    "country": "Japan"
+  },
+  "JLab": {
+    "inst": "JLab",
+    "country": "United States"
+  },
+  "Jefferson Lab": {
+    "inst": "JLab",
+    "country": "United States"
+  },
+  "Jefferson Lab.": {
+    "inst": "JLab",
+    "country": "United States"
+  },
+  "KBSI": {
+    "inst": "KBSI",
+    "country": "South Korea"
+  },
+  "KEK": {
+    "inst": "KEK",
+    "country": "Japan"
+  },
+  "Karlsruhe Institute of Technology (KIT)": {
+    "inst": "KIT",
+    "country": "Germany"
+  },
+  "Korea Atomic Energy Research Institute": {
+    "inst": "KAERI",
+    "country": "South Korea"
+  },
+  "Kyutech": {
+    "inst": "Kyutech",
+    "country": "Japan"
+  },
+  "LBL": {
+    "inst": "LBNL",
+    "country": "United States"
+  },
+  "LBNL": {
+    "inst": "LBNL",
+    "country": "United States"
+  },
+  "Lawrence Berkeley National Laboratory": {
+    "inst": "LBNL",
+    "country": "United States"
+  },
+  "Lund University": {
+    "inst": "LU",
+    "country": "Sweden"
+  },
+  "Mines Paris, PSL University": {
+    "inst": "Mines Paris",
+    "country": "France"
+  },
+  "Oak Ridge National Laboratory": {
+    "inst": "ORNL",
+    "country": "United States"
+  },
+  "Osaka Metropolitan Univ. / RCNP": {
+    "inst": "OMU",
+    "country": "Japan"
+  },
+  "Osaka Metropolitan University": {
+    "inst": "OMU",
+    "country": "Japan"
+  },
+  "PAL": {
+    "inst": "PAL",
+    "country": "South Korea"
+  },
+  "PNNL": {
+    "inst": "PNNL",
+    "country": "United States"
+  },
+  "POSTECH": {
+    "inst": "PAL",
+    "country": "South Korea"
+  },
+  "Pacific Northwest National Laboratory": {
+    "inst": "PNNL",
+    "country": "United States"
+  },
+  "Pohang Accelerator Laboratory": {
+    "inst": "PAL",
+    "country": "South Korea"
+  },
+  "Pohang Accelerator Laboratory (PAL)": {
+    "inst": "PAL",
+    "country": "South Korea"
+  },
+  "Pohang University of Science and Technology": {
+    "inst": "PAL",
+    "country": "South Korea"
+  },
+  "RCNP, Osaka University": {
+    "inst": "UOsaka",
+    "country": "Japan"
+  },
+  "RIKEN": {
+    "inst": "RIKEN",
+    "country": "Japan"
+  },
+  "RIKEN Nishina Center": {
+    "inst": "RNC",
+    "country": "Japan"
+  },
+  "RIKEN Nishina Center for Accelerator-Based Science": {
+    "inst": "RNC",
+    "country": "Japan"
+  },
+  "RIKEN Nishina center": {
+    "inst": "RNC",
+    "country": "Japan"
+  },
+  "RIKEN Research DX Foundation Team": {
+    "inst": "TRIP",
+    "country": "Japan"
+  },
+  "RIKEN SPring-8 Center": {
+    "inst": "RSC",
+    "country": "Japan"
+  },
+  "RPI University": {
+    "inst": "RPI",
+    "country": "United States"
+  },
+  "SLAC": {
+    "inst": "SLAC",
+    "country": "United States"
+  },
+  "SLAC National Accelerator Laboratory": {
+    "inst": "SLAC",
+    "country": "United States"
+  },
+  "SLAC National Accelerator Laboratory, Menlo Park, CA, USA": {
+    "inst": "SLAC",
+    "country": "United States"
+  },
+  "SLAC National Accelerator Laboratory, Stanford University": {
+    "inst": "SLAC",
+    "country": "United States"
+  },
+  "SPring-8": {
+    "inst": "RSC",
+    "country": "Japan"
+  },
+  "STFC - UKRI - ISIS Neutron and Muon Source": {
+    "inst": "ISIS",
+    "country": "United Kingdom"
+  },
+  "Science & Technology Facilities Council": {
+    "inst": "STFC",
+    "country": "United Kingdom"
+  },
+  "Science Tokyo": {
+    "inst": "Science Tokyo",
+    "country": "Japan"
+  },
+  "Science and Technology Facilities Council": {
+    "inst": "STFC",
+    "country": "United Kingdom"
+  },
+  "TRIUMF": {
+    "inst": "TRIUMF",
+    "country": "Canada"
+  },
+  "TRIUMF, University of Victoria": {
+    "inst": "TRIUMF",
+    "country": "Canada"
+  },
+  "TU Wien": {
+    "inst": "TU Wien",
+    "country": "Austria"
+  },
+  "TUHH": {
+    "inst": "TUHH",
+    "country": "Germany"
+  },
+  "Thomas Jefferson National Accelerator Facility": {
+    "inst": "JLab",
+    "country": "United States"
+  },
+  "Tohoku University": {
+    "inst": "Tohoku",
+    "country": "Japan"
+  },
+  "UOsaka D3": {
+    "inst": "UOsaka",
+    "country": "Japan"
+  },
+  "UOsaka ISIR": {
+    "inst": "UOsaka",
+    "country": "Japan"
+  },
+  "UTokyo ICEPP": {
+    "inst": "UTokyo",
+    "country": "Japan"
+  },
+  "University of Chicago": {
+    "inst": "UChicago",
+    "country": "United States"
+  },
+  "University of Houston": {
+    "inst": "UH",
+    "country": "United States"
+  },
+  "University of Liverpool": {
+    "inst": "UoL",
+    "country": "United Kingdom"
+  },
+  "University of Naples, Federico II": {
+    "inst": "UniNa",
+    "country": "Italy"
+  },
+  "University of Vienna (AT)": {
+    "inst": "UniVienna",
+    "country": "Austria"
+  },
+  "University of Wisconsin – Madison": {
+    "inst": "UW-Madison",
+    "country": "United States"
+  },
+  "science ak.baker@stfc.ac.uknd technology facilities council": {
+    "inst": "STFC",
+    "country": "United Kingdom"
+  },
+  "science and technology facilities council": {
+    "inst": "STFC",
+    "country": "United Kingdom"
+  },
+  "university of sarajevo": {
+    "inst": "UniSarajevo",
+    "country": "Bosnia and Herzegovina"
+  },
+  "ISIS Neutron and Muon Source": {
+    "inst": "ISIS",
+    "country": "United Kingdom"
+  }
+}
